@@ -1,2 +1,2 @@
 result:
-	gcc solve.c -o result
+	gcc solve.c -o main
